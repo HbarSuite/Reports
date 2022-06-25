@@ -1,0 +1,3071 @@
+[{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.8",
+        "amount": 2108
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49865
+      },
+      {
+        "account": "0.0.725580",
+        "amount": {
+          "$numberLong": "-200000051973"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "200000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.725580-1651500380-987346949",
+  "error_message": "transaction 0.0.0@1651502170.169213203 failed precheck with status FAIL_INVALID"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2092
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49543
+      },
+      {
+        "account": "0.0.727005",
+        "amount": -1051635
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.727005-1651502563-378926505",
+  "error_message": "receipt for transaction 0.0.0@1651505896.471302297 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.20",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.333420",
+        "amount": {
+          "$numberLong": "-10000051556"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "10000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.333420-1651500866-219735292",
+  "error_message": "receipt for transaction 0.0.0@1651504075.409379802 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.814196",
+        "amount": -500051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.814196-1651504647-113421272",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.847722",
+        "amount": -500051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.847722-1651506060-673417114",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.8",
+        "amount": 2108
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49865
+      },
+      {
+        "account": "0.0.474514",
+        "amount": -500051973
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.474514-1651504522-305375449",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 200000000
+      },
+      {
+        "account": "0.0.893847",
+        "amount": -200051556
+      }
+    ]
+  },
+  "transaction_id": "0.0.893847-1651506969-158073247",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2106
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49828
+      },
+      {
+        "account": "0.0.608633",
+        "amount": -400051934
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 400000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.608633-1651506706-999422819",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.4",
+        "amount": 2108
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49865
+      },
+      {
+        "account": "0.0.1142",
+        "amount": -100051973
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.1142-1651508712-970268063",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.817573",
+        "amount": -400051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 400000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.817573-1651511080-580801571",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.664844",
+        "amount": -1000051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.664844-1651514235-123179952",
+  "error_message": "Cannot read properties of null (reading 'accountId')"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2094
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49592
+      },
+      {
+        "account": "0.0.840074",
+        "amount": -18051686
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 18000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.840074-1651514647-170141413",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 200000000
+      },
+      {
+        "account": "0.0.893847",
+        "amount": -200051556
+      }
+    ]
+  },
+  "transaction_id": "0.0.893847-1651514947-929840394",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.819153",
+        "amount": -301556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 250000
+      }
+    ]
+  },
+  "transaction_id": "0.0.819153-1651515688-975960602",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.819153",
+        "amount": -301556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 250000
+      }
+    ]
+  },
+  "transaction_id": "0.0.819153-1651516068-743130731",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.855429",
+        "amount": -300051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 300000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.855429-1651517173-017962133",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.25192",
+        "amount": -300051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 300000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.25192-1651523270-423065343",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.708789",
+        "amount": -301556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 250000
+      }
+    ]
+  },
+  "transaction_id": "0.0.708789-1651533135-599466462",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.679541",
+        "amount": -50051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 50000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.679541-1651535354-439467933",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2093
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49568
+      },
+      {
+        "account": "0.0.876790",
+        "amount": -500051661
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.876790-1651540538-600417248",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2099
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49691
+      },
+      {
+        "account": "0.0.876790",
+        "amount": -500051790
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.876790-1651541349-988004306",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.9",
+        "amount": 2097
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49642
+      },
+      {
+        "account": "0.0.198125",
+        "amount": {
+          "$numberLong": "-250000051739"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "250000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.198125-1651544605-022000000",
+  "error_message": "receipt for transaction 0.0.0@1651544629.598989745 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.11",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.16953",
+        "amount": -1000051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.16953-1651559653-849005247",
+  "error_message": "receipt for transaction 0.0.0@1651559677.353933193 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.8",
+        "amount": 2108
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49865
+      },
+      {
+        "account": "0.0.345056",
+        "amount": -2000051973
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 2000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.345056-1651587205-274787590",
+  "error_message": "receipt for transaction 0.0.0@1651587221.637891567 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.817573",
+        "amount": -400051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 400000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.817573-1651590508-446767295",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.11",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.16953",
+        "amount": -1000051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.16953-1651593935-636942792",
+  "error_message": "receipt for transaction 0.0.0@1651593976.591588038 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.11",
+        "amount": 2094
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49592
+      },
+      {
+        "account": "0.0.16953",
+        "amount": -1000051686
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.16953-1651603500-491971966",
+  "error_message": "receipt for transaction 0.0.0@1651603511.510459166 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2088
+      },
+      {
+        "account": "0.0.98",
+        "amount": 49468
+      },
+      {
+        "account": "0.0.588348",
+        "amount": -500051556
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.588348-1651603679-218362358",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2602
+      },
+      {
+        "account": "0.0.98",
+        "amount": 61650
+      },
+      {
+        "account": "0.0.867355",
+        "amount": -1000064252
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.867355-1651622541-567122564",
+  "error_message": "receipt for transaction 0.0.0@1651622563.294216577 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.11",
+        "amount": 2960
+      },
+      {
+        "account": "0.0.98",
+        "amount": 70092
+      },
+      {
+        "account": "0.0.16953",
+        "amount": -1000073052
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.16953-1651626843-474603669",
+  "error_message": "receipt for transaction 0.0.0@1651626870.132542344 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2951
+      },
+      {
+        "account": "0.0.98",
+        "amount": 69917
+      },
+      {
+        "account": "0.0.485163",
+        "amount": -1000072868
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.485163-1651631132-255926945",
+  "error_message": "receipt for transaction 0.0.0@1651631180.996260754 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2896
+      },
+      {
+        "account": "0.0.98",
+        "amount": 68612
+      },
+      {
+        "account": "0.0.880526",
+        "amount": -1000071508
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.880526-1651640432-503490697",
+  "error_message": "receipt for transaction 0.0.0@1651640452.422909139 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2896
+      },
+      {
+        "account": "0.0.98",
+        "amount": 68612
+      },
+      {
+        "account": "0.0.880526",
+        "amount": -200071508
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 200000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.880526-1651641326-248407642",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.17",
+        "amount": 2900
+      },
+      {
+        "account": "0.0.98",
+        "amount": 68681
+      },
+      {
+        "account": "0.0.637194",
+        "amount": {
+          "$numberLong": "-5460071580"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "5459999999"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.637194-1651642015-199653940",
+  "error_message": "receipt for transaction 0.0.0@1651642029.56950048 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2898
+      },
+      {
+        "account": "0.0.98",
+        "amount": 68650
+      },
+      {
+        "account": "0.0.865183",
+        "amount": {
+          "$numberLong": "-25000071548"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "25000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.865183-1651654677-807463314",
+  "error_message": "receipt for transaction 0.0.0@1651654689.758690852 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2883
+      },
+      {
+        "account": "0.0.98",
+        "amount": 68301
+      },
+      {
+        "account": "0.0.880526",
+        "amount": -500071184
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.880526-1651657966-857387692",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2895
+      },
+      {
+        "account": "0.0.98",
+        "amount": 68590
+      },
+      {
+        "account": "0.0.838218",
+        "amount": -200071485
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 200000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.838218-1651682914-287230685",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2751
+      },
+      {
+        "account": "0.0.98",
+        "amount": 65138
+      },
+      {
+        "account": "0.0.575346",
+        "amount": -10067889
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 10000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.575346-1651699829-284677904",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2751
+      },
+      {
+        "account": "0.0.98",
+        "amount": 65138
+      },
+      {
+        "account": "0.0.618431",
+        "amount": -10067889
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 10000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.618431-1651699917-173718491",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2681
+      },
+      {
+        "account": "0.0.98",
+        "amount": 63414
+      },
+      {
+        "account": "0.0.831364",
+        "amount": 100000000
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1100000000
+      },
+      {
+        "account": "0.0.898725",
+        "amount": -1200066095
+      }
+    ]
+  },
+  "transaction_id": "0.0.898725-1651718060-621582055",
+  "error_message": "Cannot read properties of undefined (reading 'account')"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 2752
+      },
+      {
+        "account": "0.0.98",
+        "amount": 65205
+      },
+      {
+        "account": "0.0.844515",
+        "amount": -300067957
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 300000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.844515-1651758420-648309542",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.4",
+        "amount": 2918
+      },
+      {
+        "account": "0.0.98",
+        "amount": 69003
+      },
+      {
+        "account": "0.0.412632",
+        "amount": {
+          "$numberLong": "-11392536378"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "11392464457"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.412632-1651767668-480721449",
+  "error_message": "receipt for transaction 0.0.0@1651767745.234970369 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3017
+      },
+      {
+        "account": "0.0.98",
+        "amount": 71465
+      },
+      {
+        "account": "0.0.683644",
+        "amount": -100074482
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.683644-1651811329-659489923",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3046
+      },
+      {
+        "account": "0.0.98",
+        "amount": 72130
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1100000000
+      },
+      {
+        "account": "0.0.901687",
+        "amount": -1100075176
+      }
+    ]
+  },
+  "transaction_id": "0.0.901687-1651817556-379779929",
+  "error_message": "receipt for transaction 0.0.0@1651817568.552434567 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3114
+      },
+      {
+        "account": "0.0.98",
+        "amount": 73764
+      },
+      {
+        "account": "0.0.658007",
+        "amount": {
+          "$numberLong": "-750000076878"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "750000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.658007-1651828507-671992933",
+  "error_message": "receipt for transaction 0.0.0@1651828559.424606620 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3130
+      },
+      {
+        "account": "0.0.98",
+        "amount": 74145
+      },
+      {
+        "account": "0.0.815335",
+        "amount": -81622785
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 81545510
+      }
+    ]
+  },
+  "transaction_id": "0.0.815335-1651849911-855594355",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3058
+      },
+      {
+        "account": "0.0.98",
+        "amount": 72443
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 62000000
+      },
+      {
+        "account": "0.0.904298",
+        "amount": -62075501
+      }
+    ]
+  },
+  "transaction_id": "0.0.904298-1651858593-526287369",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3058
+      },
+      {
+        "account": "0.0.98",
+        "amount": 72443
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 962000000
+      },
+      {
+        "account": "0.0.904341",
+        "amount": -962075501
+      }
+    ]
+  },
+  "transaction_id": "0.0.904341-1651859237-426578457",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3042
+      },
+      {
+        "account": "0.0.98",
+        "amount": 72008
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "20000000000"
+        }
+      },
+      {
+        "account": "0.0.901402",
+        "amount": {
+          "$numberLong": "-20000075050"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.901402-1651860842-604673409",
+  "error_message": "receipt for transaction 0.0.0@1651860863.160097564 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3051
+      },
+      {
+        "account": "0.0.98",
+        "amount": 72289
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 800000000
+      },
+      {
+        "account": "0.0.904799",
+        "amount": -800075340
+      }
+    ]
+  },
+  "transaction_id": "0.0.904799-1651869147-534339619",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3059
+      },
+      {
+        "account": "0.0.98",
+        "amount": 72477
+      },
+      {
+        "account": "0.0.820479",
+        "amount": -100075536
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.820479-1651896352-656565223",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3022
+      },
+      {
+        "account": "0.0.98",
+        "amount": 71587
+      },
+      {
+        "account": "0.0.695772",
+        "amount": -300074609
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 300000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.695772-1651943297-834467688",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3022
+      },
+      {
+        "account": "0.0.98",
+        "amount": 71587
+      },
+      {
+        "account": "0.0.886862",
+        "amount": -1100074609
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.886862-1651944258-883192180",
+  "error_message": "receipt for transaction 0.0.0@1651944282.789193062 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3075
+      },
+      {
+        "account": "0.0.98",
+        "amount": 72724
+      },
+      {
+        "account": "0.0.831364",
+        "amount": 10000000
+      },
+      {
+        "account": "0.0.892663",
+        "amount": -1010075799
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.892663-1651948188-336120883",
+  "error_message": "Cannot read properties of undefined (reading 'account')"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.11",
+        "amount": 3079
+      },
+      {
+        "account": "0.0.98",
+        "amount": 72949
+      },
+      {
+        "account": "0.0.16953",
+        "amount": {
+          "$numberLong": "-150199476028"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "150199400000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.16953-1651963039-345410829",
+  "error_message": "receipt for transaction 0.0.0@1651963049.260774363 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3263
+      },
+      {
+        "account": "0.0.98",
+        "amount": 77067
+      },
+      {
+        "account": "0.0.731422",
+        "amount": -1000080330
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.731422-1651970070-036000000",
+  "error_message": "receipt for transaction 0.0.0@1651970087.301304743 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3199
+      },
+      {
+        "account": "0.0.98",
+        "amount": 75776
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "8000000000"
+        }
+      },
+      {
+        "account": "0.0.908372",
+        "amount": {
+          "$numberLong": "-8000078975"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.908372-1651971574-177623497",
+  "error_message": "receipt for transaction 0.0.0@1651971588.650251651 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3136
+      },
+      {
+        "account": "0.0.98",
+        "amount": 74302
+      },
+      {
+        "account": "0.0.861697",
+        "amount": -1000077438
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.861697-1651972299-665492124",
+  "error_message": "receipt for transaction 0.0.0@1651972323.705826455 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3136
+      },
+      {
+        "account": "0.0.98",
+        "amount": 74302
+      },
+      {
+        "account": "0.0.628396",
+        "amount": {
+          "$numberLong": "-60000077438"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "60000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.628396-1651974851-425354953",
+  "error_message": "receipt for transaction 0.0.0@1651974894.73277093 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3161
+      },
+      {
+        "account": "0.0.98",
+        "amount": 74888
+      },
+      {
+        "account": "0.0.484814",
+        "amount": -1000078049
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.484814-1651975418-988192058",
+  "error_message": "receipt for transaction 0.0.0@1651975443.940441106 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3217
+      },
+      {
+        "account": "0.0.98",
+        "amount": 76203
+      },
+      {
+        "account": "0.0.851469",
+        "amount": -100079420
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.851469-1651992059-624078797",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3187
+      },
+      {
+        "account": "0.0.98",
+        "amount": 75509
+      },
+      {
+        "account": "0.0.349064",
+        "amount": -1000078696
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.349064-1651998348-229190508",
+  "error_message": "receipt for transaction 0.0.0@1651998383.538052038 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3241
+      },
+      {
+        "account": "0.0.98",
+        "amount": 76791
+      },
+      {
+        "account": "0.0.842227",
+        "amount": -1000080032
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.842227-1652022913-186223721",
+  "error_message": "receipt for transaction 0.0.0@1652022968.581263056 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.11",
+        "amount": 3198
+      },
+      {
+        "account": "0.0.98",
+        "amount": 75768
+      },
+      {
+        "account": "0.0.16953",
+        "amount": -1000078966
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.16953-1652031671-150067043",
+  "error_message": "receipt for transaction 0.0.0@1652031687.96075374 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3208
+      },
+      {
+        "account": "0.0.98",
+        "amount": 75957
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 10000000
+      },
+      {
+        "account": "0.0.909795",
+        "amount": -10079165
+      }
+    ]
+  },
+  "transaction_id": "0.0.909795-1652032496-456512062",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3198
+      },
+      {
+        "account": "0.0.98",
+        "amount": 75761
+      },
+      {
+        "account": "0.0.663985",
+        "amount": -100078959
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.663985-1652035279-610153084",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3233
+      },
+      {
+        "account": "0.0.98",
+        "amount": 76560
+      },
+      {
+        "account": "0.0.833080",
+        "amount": -500079793
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.833080-1652036982-183077048",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3159
+      },
+      {
+        "account": "0.0.98",
+        "amount": 74833
+      },
+      {
+        "account": "0.0.453238",
+        "amount": -2000077992
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 2000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.453238-1652040909-097341375",
+  "error_message": "receipt for transaction 0.0.0@1652040933.262152506 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3163
+      },
+      {
+        "account": "0.0.98",
+        "amount": 74891
+      },
+      {
+        "account": "0.0.640352",
+        "amount": -400078054
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 400000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.640352-1652043950-165774137",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.12",
+        "amount": 3153
+      },
+      {
+        "account": "0.0.98",
+        "amount": 74703
+      },
+      {
+        "account": "0.0.182469",
+        "amount": {
+          "$numberLong": "-10000077856"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "10000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.182469-1652044929-923000000",
+  "error_message": "receipt for transaction 0.0.0@1652044982.778436030 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.11",
+        "amount": 3197
+      },
+      {
+        "account": "0.0.98",
+        "amount": 75729
+      },
+      {
+        "account": "0.0.16953",
+        "amount": {
+          "$numberLong": "-15237778926"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "15237700000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.16953-1652061177-542329400",
+  "error_message": "receipt for transaction 0.0.0@1652061191.867595671 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3130
+      },
+      {
+        "account": "0.0.98",
+        "amount": 74073
+      },
+      {
+        "account": "0.0.858017",
+        "amount": -26917203
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 26840000
+      }
+    ]
+  },
+  "transaction_id": "0.0.858017-1652062102-938457899",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3183
+      },
+      {
+        "account": "0.0.98",
+        "amount": 75410
+      },
+      {
+        "account": "0.0.836435",
+        "amount": {
+          "$numberLong": "-49800078593"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "49800000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.836435-1652066465-590275597",
+  "error_message": "receipt for transaction 0.0.0@1652066513.205258267 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3372
+      },
+      {
+        "account": "0.0.98",
+        "amount": 79862
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      },
+      {
+        "account": "0.0.911922",
+        "amount": -1000083234
+      }
+    ]
+  },
+  "transaction_id": "0.0.911922-1652104748-175841079",
+  "error_message": "receipt for transaction 0.0.0@1652104772.88851224 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3734
+      },
+      {
+        "account": "0.0.98",
+        "amount": 88427
+      },
+      {
+        "account": "0.0.849250",
+        "amount": -500092161
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.849250-1652129157-636259619",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3807
+      },
+      {
+        "account": "0.0.98",
+        "amount": 90195
+      },
+      {
+        "account": "0.0.789606",
+        "amount": -100094002
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.789606-1652145509-481670791",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3797
+      },
+      {
+        "account": "0.0.98",
+        "amount": 89953
+      },
+      {
+        "account": "0.0.893391",
+        "amount": -100093750
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.893391-1652162057-952787766",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3540
+      },
+      {
+        "account": "0.0.98",
+        "amount": 83874
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "20800000000"
+        }
+      },
+      {
+        "account": "0.0.911936",
+        "amount": {
+          "$numberLong": "-20800087414"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.911936-1652184592-875073779",
+  "error_message": "receipt for transaction 0.0.0@1652184614.488360855 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3433
+      },
+      {
+        "account": "0.0.98",
+        "amount": 81297
+      },
+      {
+        "account": "0.0.859024",
+        "amount": -500084730
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.859024-1652189876-519869815",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3374
+      },
+      {
+        "account": "0.0.98",
+        "amount": 79935
+      },
+      {
+        "account": "0.0.844515",
+        "amount": -300083309
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 300000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.844515-1652194194-544136321",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3517
+      },
+      {
+        "account": "0.0.98",
+        "amount": 83314
+      },
+      {
+        "account": "0.0.832852",
+        "amount": -500086831
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.832852-1652204253-765134092",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3517
+      },
+      {
+        "account": "0.0.98",
+        "amount": 83314
+      },
+      {
+        "account": "0.0.832852",
+        "amount": -600086831
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 600000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.832852-1652204893-999294308",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3442
+      },
+      {
+        "account": "0.0.98",
+        "amount": 81544
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 136133600
+      },
+      {
+        "account": "0.0.914543",
+        "amount": -136218586
+      }
+    ]
+  },
+  "transaction_id": "0.0.914543-1652209384-006822645",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3501
+      },
+      {
+        "account": "0.0.98",
+        "amount": 82949
+      },
+      {
+        "account": "0.0.683376",
+        "amount": {
+          "$numberLong": "-7500086450"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "7500000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.683376-1652267644-133325875",
+  "error_message": "gRPC service failed with status: UNAVAILABLE"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4480
+      },
+      {
+        "account": "0.0.98",
+        "amount": 106136
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 400000000
+      },
+      {
+        "account": "0.0.909413",
+        "amount": -400110616
+      }
+    ]
+  },
+  "transaction_id": "0.0.909413-1652317405-813485148",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4335
+      },
+      {
+        "account": "0.0.98",
+        "amount": 102699
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "6900000000"
+        }
+      },
+      {
+        "account": "0.0.919616",
+        "amount": {
+          "$numberLong": "-6900107034"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.919616-1652322524-441645448",
+  "error_message": "receipt for transaction 0.0.0@1652322544.716577957 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5171
+      },
+      {
+        "account": "0.0.98",
+        "amount": 122508
+      },
+      {
+        "account": "0.0.852073",
+        "amount": -2000127679
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 2000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.852073-1652349287-443467468",
+  "error_message": "receipt for transaction 0.0.0@1652349307.206500342 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4970
+      },
+      {
+        "account": "0.0.98",
+        "amount": 117741
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "14900000000"
+        }
+      },
+      {
+        "account": "0.0.905470",
+        "amount": {
+          "$numberLong": "-14900122711"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.905470-1652365074-239003120",
+  "error_message": "transaction 0.0.0@1652365107.16615282 failed precheck with status FAIL_INVALID"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4856
+      },
+      {
+        "account": "0.0.98",
+        "amount": 115039
+      },
+      {
+        "account": "0.0.864216",
+        "amount": -1000119895
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.864216-1652398577-581751417",
+  "error_message": "receipt for transaction 0.0.0@1652398597.590083732 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4698
+      },
+      {
+        "account": "0.0.98",
+        "amount": 111282
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "11000000000"
+        }
+      },
+      {
+        "account": "0.0.922483",
+        "amount": {
+          "$numberLong": "-11000115980"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.922483-1652406441-704164961",
+  "error_message": "transaction 0.0.830514@1652406474.460657149 failed precheck with status PLATFORM_NOT_ACTIVE"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3935
+      },
+      {
+        "account": "0.0.98",
+        "amount": 93227
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 10000000
+      },
+      {
+        "account": "0.0.922402",
+        "amount": -10097162
+      }
+    ]
+  },
+  "transaction_id": "0.0.922402-1652445460-543296160",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4095
+      },
+      {
+        "account": "0.0.98",
+        "amount": 97015
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 400000000
+      },
+      {
+        "account": "0.0.922483",
+        "amount": -400101110
+      }
+    ]
+  },
+  "transaction_id": "0.0.922483-1652485291-009563509",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4393
+      },
+      {
+        "account": "0.0.98",
+        "amount": 104061
+      },
+      {
+        "account": "0.0.850631",
+        "amount": -1000108454
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.850631-1652541183-456879387",
+  "error_message": "receipt for transaction 0.0.0@1652541201.568606145 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3966
+      },
+      {
+        "account": "0.0.98",
+        "amount": 93964
+      },
+      {
+        "account": "0.0.836533",
+        "amount": -100097930
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.836533-1652746122-346375249",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3822
+      },
+      {
+        "account": "0.0.98",
+        "amount": 90533
+      },
+      {
+        "account": "0.0.844515",
+        "amount": -800094355
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 800000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.844515-1652802269-056381703",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3969
+      },
+      {
+        "account": "0.0.98",
+        "amount": 93987
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "16000000000"
+        }
+      },
+      {
+        "account": "0.0.909480",
+        "amount": {
+          "$numberLong": "-16000097956"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.909480-1652811292-546259855",
+  "error_message": "receipt for transaction 0.0.0@1652811312.992430745 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4025
+      },
+      {
+        "account": "0.0.98",
+        "amount": 95037
+      },
+      {
+        "account": "0.0.637473",
+        "amount": {
+          "$numberLong": "-105000099062"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "105000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.637473-1652827117-650000000",
+  "error_message": "receipt for transaction 0.0.0@1652827155.614510745 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 3962
+      },
+      {
+        "account": "0.0.98",
+        "amount": 93855
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 500000000
+      },
+      {
+        "account": "0.0.942847",
+        "amount": -500097817
+      }
+    ]
+  },
+  "transaction_id": "0.0.942847-1653006541-211365447",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4062
+      },
+      {
+        "account": "0.0.98",
+        "amount": 96223
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      },
+      {
+        "account": "0.0.909426",
+        "amount": -100100285
+      }
+    ]
+  },
+  "transaction_id": "0.0.909426-1653066795-716027304",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4185
+      },
+      {
+        "account": "0.0.98",
+        "amount": 99153
+      },
+      {
+        "account": "0.0.831333",
+        "amount": -100103338
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 100000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.831333-1653416698-819883393",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4449
+      },
+      {
+        "account": "0.0.98",
+        "amount": 105388
+      },
+      {
+        "account": "0.0.45139",
+        "amount": {
+          "$numberLong": "-200000109837"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "200000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.45139-1653599922-298523067",
+  "error_message": "receipt for transaction 0.0.0@1653599942.184799507 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4587
+      },
+      {
+        "account": "0.0.98",
+        "amount": 108666
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "80000000000"
+        }
+      },
+      {
+        "account": "0.0.907176",
+        "amount": {
+          "$numberLong": "-80000113253"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.907176-1653861158-378877753",
+  "error_message": "receipt for transaction 0.0.0@1653861170.617476751 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4221
+      },
+      {
+        "account": "0.0.98",
+        "amount": 99988
+      },
+      {
+        "account": "0.0.886036",
+        "amount": {
+          "$numberLong": "-100000104209"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "100000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.886036-1653994366-350251999",
+  "error_message": "transaction 0.0.0@1653994402.923240572 failed precheck with status FAIL_INVALID"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4276
+      },
+      {
+        "account": "0.0.98",
+        "amount": 101295
+      },
+      {
+        "account": "0.0.815947",
+        "amount": -700105571
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 700000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.815947-1654044589-474108435",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4276
+      },
+      {
+        "account": "0.0.98",
+        "amount": 101295
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "4990000000"
+        }
+      },
+      {
+        "account": "0.0.910687",
+        "amount": {
+          "$numberLong": "-4990105571"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.910687-1654044405-349876487",
+  "error_message": "receipt for transaction 0.0.0@1654044858.869310534 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4423
+      },
+      {
+        "account": "0.0.98",
+        "amount": 104773
+      },
+      {
+        "account": "0.0.656999",
+        "amount": -1010109196
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1010000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.656999-1654108233-424136567",
+  "error_message": "receipt for transaction 0.0.830514@1654108249.115630561 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4576
+      },
+      {
+        "account": "0.0.98",
+        "amount": 108408
+      },
+      {
+        "account": "0.0.683376",
+        "amount": -824412984
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 824300000
+      }
+    ]
+  },
+  "transaction_id": "0.0.683376-1654301902-660849804",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4574
+      },
+      {
+        "account": "0.0.98",
+        "amount": 108346
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "20000000000"
+        }
+      },
+      {
+        "account": "0.0.909480",
+        "amount": {
+          "$numberLong": "-20000112920"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.909480-1654345499-994472518",
+  "error_message": "receipt for transaction 0.0.830514@1654345517.819901336 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4541
+      },
+      {
+        "account": "0.0.98",
+        "amount": 107568
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      },
+      {
+        "account": "0.0.910687",
+        "amount": -1000112109
+      }
+    ]
+  },
+  "transaction_id": "0.0.910687-1654363065-937511366",
+  "error_message": "receipt for transaction 0.0.830514@1654363099.947583801 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 4234
+      },
+      {
+        "account": "0.0.98",
+        "amount": 100259
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "62333000000"
+        }
+      },
+      {
+        "account": "0.0.893847",
+        "amount": {
+          "$numberLong": "-62333104493"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.893847-1654503483-597525205",
+  "error_message": "transaction 0.0.830514@1654503509.974452600 failed precheck with status PLATFORM_NOT_ACTIVE"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5009
+      },
+      {
+        "account": "0.0.98",
+        "amount": 118652
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      },
+      {
+        "account": "0.0.895097",
+        "amount": -1000123661
+      }
+    ]
+  },
+  "transaction_id": "0.0.895097-1654919411-936215996",
+  "error_message": "receipt for transaction 0.0.830514@1654919511.710746369 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5233
+      },
+      {
+        "account": "0.0.98",
+        "amount": 123977
+      },
+      {
+        "account": "0.0.812515",
+        "amount": -800129210
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 800000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.812515-1655000290-595342201",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 6223
+      },
+      {
+        "account": "0.0.98",
+        "amount": 147414
+      },
+      {
+        "account": "0.0.846712",
+        "amount": {
+          "$numberLong": "-10000153637"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "10000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.846712-1655243333-608727715",
+  "error_message": "receipt for transaction 0.0.830514@1655243357.421483827 contained error status TOKEN_NOT_ASSOCIATED_TO_ACCOUNT"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 6233
+      },
+      {
+        "account": "0.0.98",
+        "amount": 147647
+      },
+      {
+        "account": "0.0.860797",
+        "amount": -486953880
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 486800000
+      }
+    ]
+  },
+  "transaction_id": "0.0.860797-1655395855-905229077",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 6583
+      },
+      {
+        "account": "0.0.98",
+        "amount": 155791
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "10000000000"
+        }
+      },
+      {
+        "account": "0.0.894409",
+        "amount": {
+          "$numberLong": "-10000162374"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.894409-1655601732-051334406",
+  "error_message": "transaction 0.0.830514@1655601770.80441147 failed precheck with status FAIL_INVALID"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 6102
+      },
+      {
+        "account": "0.0.98",
+        "amount": 144551
+      },
+      {
+        "account": "0.0.662983",
+        "amount": {
+          "$numberLong": "-653897400653"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "653897250000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.662983-1655704532-720566111",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 6223
+      },
+      {
+        "account": "0.0.98",
+        "amount": 147413
+      },
+      {
+        "account": "0.0.814618",
+        "amount": -400153636
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 400000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.814618-1655706612-341353590",
+  "error_message": "insufficient payment, min buy in is 10"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5960
+      },
+      {
+        "account": "0.0.98",
+        "amount": 141177
+      },
+      {
+        "account": "0.0.841342",
+        "amount": -1000147137
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.841342-1655712530-795297308",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5960
+      },
+      {
+        "account": "0.0.98",
+        "amount": 141177
+      },
+      {
+        "account": "0.0.859480",
+        "amount": -1000147137
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.859480-1655712539-545754750",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5968
+      },
+      {
+        "account": "0.0.98",
+        "amount": 141386
+      },
+      {
+        "account": "0.0.657417",
+        "amount": -1000147354
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.657417-1655717675-921647461",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5841
+      },
+      {
+        "account": "0.0.98",
+        "amount": 138362
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      },
+      {
+        "account": "0.0.932181",
+        "amount": -1000144203
+      }
+    ]
+  },
+  "transaction_id": "0.0.932181-1655720012-464734846",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5841
+      },
+      {
+        "account": "0.0.98",
+        "amount": 138362
+      },
+      {
+        "account": "0.0.705651",
+        "amount": {
+          "$numberLong": "-40000144203"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "40000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.705651-1655720580-601720308",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5841
+      },
+      {
+        "account": "0.0.98",
+        "amount": 138362
+      },
+      {
+        "account": "0.0.880682",
+        "amount": {
+          "$numberLong": "-10000144203"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "10000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.880682-1655721334-140963402",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5693
+      },
+      {
+        "account": "0.0.98",
+        "amount": 134861
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "20350000000"
+        }
+      },
+      {
+        "account": "0.0.983240",
+        "amount": {
+          "$numberLong": "-20350140554"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.983240-1655722980-012554898",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5693
+      },
+      {
+        "account": "0.0.98",
+        "amount": 134861
+      },
+      {
+        "account": "0.0.433061",
+        "amount": -1000140554
+      },
+      {
+        "account": "0.0.893732",
+        "amount": 1000000000
+      }
+    ]
+  },
+  "transaction_id": "0.0.433061-1655725196-909789758",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5357
+      },
+      {
+        "account": "0.0.98",
+        "amount": 126908
+      },
+      {
+        "account": "0.0.608633",
+        "amount": {
+          "$numberLong": "-40000132265"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "40000000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.608633-1655834713-861455815",
+  "error_message": "insufficient balance on ICO Wallet"
+},{
+  "transaction": {
+    "transfers": [
+      {
+        "account": "0.0.3",
+        "amount": 5638
+      },
+      {
+        "account": "0.0.98",
+        "amount": 133566
+      },
+      {
+        "account": "0.0.832624",
+        "amount": {
+          "$numberLong": "-3100139204"
+        }
+      },
+      {
+        "account": "0.0.893732",
+        "amount": {
+          "$numberLong": "3100000000"
+        }
+      }
+    ]
+  },
+  "transaction_id": "0.0.832624-1655926828-904229717",
+  "error_message": "insufficient balance on ICO Wallet",
+  "total_amount_to_be_refunded": "3055659183566 tinyBars (30557 HBAR)"
+}]
